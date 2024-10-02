@@ -1,0 +1,24 @@
+title: Blog de ASIR
+email: alejandroliafru@gmail.com
+description: >- 
+  Bienvenido a mi blog sobre mi experiencia en el CFGS de ASIR. Aquí compartiré mis reflexiones, prácticas, proyectos y aprendizajes en el mundo de la informática. 
+  ¡Espero que mis artículos sean útiles y te inspiren en tu propio camino!
+
+# Sección de navegación
+navigation:
+  - title: "Inicio"
+    url: /
+  - title: "Sobre mí"
+    url: /about/
+  - title: "Posts"
+    url: /posts/
+
+twitter_username: alejandrolf_
+github_username: alejandrolf20
+
+# Build settings
+theme: jekyll-theme-clean-blog
+plugins:
+  - jekyll-feed
+
+
